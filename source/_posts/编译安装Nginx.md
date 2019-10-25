@@ -1,7 +1,7 @@
 ---
 title: 编译安装Nginx
 date: 2019-10-22 14:36:36
-tags: Nginx 配置 程序安装
+tags: Nginx,配置,程序安装
 categories: 运维
 keywords: nginx
 ---
