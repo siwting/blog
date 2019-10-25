@@ -129,30 +129,30 @@ cdn:
     fancybox: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js
     js-cookies: https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
 
-  # Post info settings
-  # ---------------
-  # avatar: /img/avatar.png
-  avatar: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/avatar.png
+# Post info settings
+# ---------------
+# avatar: /img/avatar.png
+avatar: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/avatar.png
 
-  # the banner image of index
-  # if the banner of another page not setting,it will show the top_img
-  top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
+# the banner image of index
+# if the banner of another page not setting,it will show the top_img
+top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
 
-  #the banner image of post
-  # if the post not set the post cover and post top image, it will show it
-  post_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/post.png
+#the banner image of post
+# if the post not set the post cover and post top image, it will show it
+post_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/post.png
 
-  # the default cover of the post
-  default_cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+# the default cover of the post
+default_cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 
-  # the banner image of archive page
-  archive_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/archive.jpg
+# the banner image of archive page
+archive_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/archive.jpg
 
-  # the banner image of tag page
-  tag_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/tag-bg.png
+# the banner image of tag page
+tag_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/tag-bg.png
 
-  # the banner image of category page
-  category_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/category-bg
+# the banner image of category page
+category_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/category-bg
 
 # if the photo link cannot connect,it will show that
 lodding_bg:
@@ -396,7 +396,7 @@ display_mode: day
 
 # 美化post頁顯示
 post_beautify:
-  enable: false
+  enable: true
   title-prefix-icon: '\f0c1'
   title-prefix-icon-color: "#F47466"
 
@@ -424,8 +424,7 @@ hr:
 subtitle: 
   enable: true
   sub:
-    - 今日事&#44;今日畢
-    - Never put off till tomorrow what you can do today
+    - 不积跬步，无以至千里&#44;不积小流，无以成江海
 
 
 
@@ -444,7 +443,7 @@ aside:
 
 # 網站公告
 announcement:
-  content: 感謝訪問本站，若喜歡請收藏 ^_^
+  content: 感谢访问本站，若喜欢请收藏 ^_^
 
 # busuanzi count for PV / UV in site
 # 訪問人數
@@ -458,7 +457,7 @@ busuanzi:
 # 也可以寫成 年/月/日 時間
 runtimeshow:
   enable: true
-  start_date: 6/7/2018 00:00:00
+  start_date: 6/10/2019 00:00:00
 
 
 ####   右下角按鈕  ####
@@ -467,13 +466,13 @@ runtimeshow:
 translate:
   enable: true
   # 默認按鈕顯示文字
-  default: 简
+  default: 繁
   #网站默认语言，1: 繁體中文, 2: 简体中文
   defaultEncoding: 2
   #延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
   translateDelay: 0
   #博客网址
-  cookieDomain: "https://xxx/"
+  cookieDomain: "https://blog.siwting.com/"
   #當文字是簡體時，按鈕顯示的文字
   msgToTraditionalChinese: "繁"
   #當文字是繁體時，按鈕顯示的文字
