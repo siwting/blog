@@ -56,8 +56,9 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
-  fa fa-rss: /atom.xml
+  fa fa-facebook: https://www.facebook.com/szewitt
+  fa fa-twitter: https://twitter.com/siwting
+  fa fa-weibo: https://weibo.com/siwting
 
 ####    search    ####
 # Algolia search
@@ -466,7 +467,7 @@ runtimeshow:
 translate:
   enable: true
   # 默認按鈕顯示文字
-  default: 繁
+  default: 简
   #网站默认语言，1: 繁體中文, 2: 简体中文
   defaultEncoding: 2
   #延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
