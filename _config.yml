@@ -90,5 +90,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://cdfcaf6d7d67f36b725d7a94be62eb39bf55aeab@github.com/siwting/blog.git
+  repo: https://70a2320f87ff4a8ba0d27708712fb320e408b20a@github.com/siwting/blog.git
   branch: gh-pages
