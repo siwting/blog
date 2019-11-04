@@ -88,7 +88,4 @@ theme: melody
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://70a2320f87ff4a8ba0d27708712fb320e408b20a@github.com/siwting/blog.git
-  branch: gh-pages
+
