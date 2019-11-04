@@ -195,9 +195,11 @@ gitalk:
   enable: true
   client_id: 54ac94da5c4df48a0358
   client_secret: a53336d5e18b18908a5dd2740bdcae93bbad6792
-  repo: gitalk
-  owner: siwting
-  admin: "['siwting']"
+  repo: 'gitalk'
+  owner: 'siwting'
+  admin: ['siwting']
+  id: 'Gitalk'
+  distractionFreeMode: true
 
 # valine comment system. https://valine.js.org
 # valine:
