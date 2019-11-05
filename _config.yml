@@ -90,11 +90,11 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 
 algolia:
-  appId: "Z7A3XW4R2I"
-  apiKey: "12db1ad54372045549ef465881c17e743"
-  adminApiKey: "40321c7c207e7f73b63a19aa24c4761b"
+  appId: "XRD00IQU1K"
+  apiKey: "f452b88e2e5f277a4fdc33abf6dd827c"
+  adminApiKey: "2c898c27c4e3cf59dfdd504a89e34d83"
   chunkSize: 5000
-  indexName: "my-hexo-blog"
+  indexName: "shisui"
   fields:
     - content:strip:truncate,0,500
     - excerpt:strip
