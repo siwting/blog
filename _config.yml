@@ -90,6 +90,9 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 
 algolia:
+  appId: XRD00IQU1K
+  apiKey: 73474065cef0f35e3642372c8705e12f
+  indexName: shisui
   chunkSize: 5000
   fields:
     - title
