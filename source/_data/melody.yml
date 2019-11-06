@@ -35,9 +35,9 @@ highlight_theme: default
 # And you need to add the `fa` or `fab` prefix by your self.
 # ---------------
 social:
-  weibo fa: https://weibo.com/siwting
+  weibo fab: https://weibo.com/siwting
   twitter fab: https://twitter.com/siwting
-  facebook fa: https://facebook.com/szewitt
+  facebook fab: https://facebook.com/szewitt
 
 # Algolia search
 # ---------------
@@ -104,8 +104,8 @@ scripts:
   # ---------------
 cdn:
   css:
-    fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
-    # fontawesomeV5: https://use.fontawesome.com/releases/v5.3.1/css/all.css
+#    fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+    fontawesomeV5: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
   js:
     anime: https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js
     jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js

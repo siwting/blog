@@ -8,8 +8,8 @@ subtitle: 不积跬步，无以至千里；不积小流，无以成江海
 description:
 keywords:
 author: siwting
-language: zh-Hans
-timezone:
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
