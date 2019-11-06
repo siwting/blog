@@ -101,3 +101,6 @@ algolia:
     - slug
     - permalink
     - path
+
+plugins:
+  - hexo-algoliasearch
