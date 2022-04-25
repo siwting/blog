@@ -120,7 +120,7 @@ avatar:
 top_img: true # false or url of img
 
 post_meta:
-  date_type: created # created or updated
+  date_type: updated # created or updated
   categories: true
   tags: true
 
