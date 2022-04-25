@@ -26,7 +26,7 @@ pwa:
 
 # Highlight theme
 # ---------------
-highlight_theme: default
+highlight_theme: ocean
 
 # code_word_wrap: true or false
 
@@ -43,7 +43,7 @@ social:
 # ---------------
 search: 搜索
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
@@ -104,7 +104,7 @@ scripts:
   # ---------------
 cdn:
   css:
-#    fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+    #    fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
     fontawesomeV5: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
   js:
     anime: https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js
