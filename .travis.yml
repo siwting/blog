@@ -10,7 +10,6 @@ cache:
 
 # S: Build Lifecycle
 install:
-  - npm install -g hexo
   - npm install
 
 before_script:
@@ -18,7 +17,7 @@ before_script:
 
 
 script:
-  - hexo clean && hexo algolia && hexo g
+  - hexo clean && hexo generate
 
 after_success:
   - cd ./public
